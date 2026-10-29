@@ -39,5 +39,4 @@ AI 채점과 반복 학습을 통해 효율적으로 암기할 수 있도록 도
 현재 Recall은 초기 테스트 버전입니다.
 일부 환경에서는 보안 경고가 표시되거나 AI 연결 기능이 정상적으로 작동하지 않을 수 있습니다.
 
-AI 기능을 사용하려면 지원되는 ChatGPT 또는 Claude 계정과 해당 CLI 도구의 설치 및 로그인이 필요합니다.# recall-releases
-Download Recall for macOS and Windows
+AI 기능을 사용하려면 지원되는 ChatGPT 또는 Claude 계정과 해당 CLI 도구의 설치 및 로그인이 필요합니다.
