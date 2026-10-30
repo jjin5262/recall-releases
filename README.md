@@ -9,10 +9,10 @@ AI 채점과 반복 학습을 통해 효율적으로 암기할 수 있도록 도
 
 | 운영체제 | 다운로드 |
 |---|---|
-| 🍎 macOS (Apple Silicon) | [Mac용 다운로드 ⬇️](https://github.com/jjin5262/recall-releases/releases/download/v0.1.0/Recall_0.1.0_aarch64.dmg) |
-| 🪟 Windows (64-bit) | [Windows용 다운로드 ⬇️](https://github.com/jjin5262/recall-releases/releases/download/v0.1.0/Recall_0.1.0_x64-setup.exe) |
+| 🍎 macOS (Apple Silicon) | [Mac용 다운로드 ⬇️](https://github.com/jjin5262/recall-releases/releases/download/v0.1.1/Recall_0.1.1_aarch64.dmg) |
+| 🪟 Windows (64-bit) | [Windows용 다운로드 ⬇️](https://github.com/jjin5262/recall-releases/releases/download/v0.1.1/Recall_0.1.1_x64-setup.exe) |
 
-현재 지원 버전: v0.1.0
+현재 최신 버전: v0.1.1
 
 ## 주요 기능
 
