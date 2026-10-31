@@ -5,14 +5,12 @@ AI 기반 용어 암기 프로그램
 Recall은 강의자료와 교재 이미지에서 용어를 추출하고,
 AI 채점과 반복 학습을 통해 효율적으로 암기할 수 있도록 도와주는 데스크톱 앱입니다.
 
-## 다운로드
-
 | 운영체제 | 다운로드 |
 |---|---|
-| 🍎 macOS (Apple Silicon) | [Mac용 다운로드 ⬇️](https://github.com/jjin5262/recall-releases/releases/download/v0.1.1/Recall_0.1.1_aarch64.dmg) |
-| 🪟 Windows (64-bit) | [Windows용 다운로드 ⬇️](https://github.com/jjin5262/recall-releases/releases/download/v0.1.1/Recall_0.1.1_x64-setup.exe) |
+| 🍎 macOS (Apple Silicon) | [Mac용 다운로드 ⬇️](https://github.com/jjin5262/recall-releases/releases/download/v0.1.2/Recall_0.1.2_aarch64.dmg) |
+| 🪟 Windows (64-bit) | [Windows용 다운로드 ⬇️](https://github.com/jjin5262/recall-releases/releases/download/v0.1.2/Recall_0.1.2_x64-setup.exe) |
 
-현재 최신 버전: v0.1.1
+현재 최신 버전: v0.1.2
 
 ## 주요 기능
 
