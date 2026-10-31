@@ -1,0 +1,23 @@
+{
+  "version": "0.1.3-test.4",
+  "notes": "테스트 릴리스입니다. 정식 업데이트에는 사용되지 않습니다.",
+  "pub_date": "2026-10-31T13:05:41.175Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUGY4c2EzTUJ2aHVxQXlQUHhtaW1GRzQ5cFE4Sm9FNThTUVZFRDN5MWFxcVJxQnlHaVJpMytObE16b3ExTGRaelZ0U2k2OHIydzVUdFVYdDN2V2pSSFNDWkFUd2gxSHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDUxODA1CWZpbGU6UmVjYWxsLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMy10ZXN0LjQKbnZiRzVtZzhlUTRqWndvTDVYK0RCaXhKU0I4d1p1TmE5aXRZbGF6NWFpb3dSOGNGdENUV3k1eXhubjMvMGlMSkE2Kyt4ZkQzN3VGOTB0YWdVZlpFQkE9PQo=",
+      "url": "https://github.com/jjin5262/recall-releases/releases/download/v0.1.3-test.4/Recall.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUGY4c2EzTUJ2aHVxQXlQUHhtaW1GRzQ5cFE4Sm9FNThTUVZFRDN5MWFxcVJxQnlHaVJpMytObE16b3ExTGRaelZ0U2k2OHIydzVUdFVYdDN2V2pSSFNDWkFUd2gxSHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDUxODA1CWZpbGU6UmVjYWxsLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMy10ZXN0LjQKbnZiRzVtZzhlUTRqWndvTDVYK0RCaXhKU0I4d1p1TmE5aXRZbGF6NWFpb3dSOGNGdENUV3k1eXhubjMvMGlMSkE2Kyt4ZkQzN3VGOTB0YWdVZlpFQkE9PQo=",
+      "url": "https://github.com/jjin5262/recall-releases/releases/download/v0.1.3-test.4/Recall.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUGY4c2EzTUJ2aGpXRlUzd1FyVld1RkNISmdsWFRmR2VVVXQ0MjBVM3hTTXFUdk43YmpNVXdxZGl2c3JtVS9JSUlpekFSUzkyMExDUmtEQ3ZtSHY0b1VuT2IrWGNvVFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDUxOTI2CWZpbGU6UmVjYWxsXzAuMS4zLXRlc3QuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjMtdGVzdC40CkgzcjBwVFZXakJBWUlQYUVkSmJvTWpLMmQ4NTRUeStVdS93YzRmQ01FTGdFZFFqQzRIVENHYm9HclVlTWNHTXk4dmIrS3UwQTRnQ0c2dFR4UVlhTER3PT0K",
+      "url": "https://github.com/jjin5262/recall-releases/releases/download/v0.1.3-test.4/Recall_0.1.3-test.4_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUGY4c2EzTUJ2aGpXRlUzd1FyVld1RkNISmdsWFRmR2VVVXQ0MjBVM3hTTXFUdk43YmpNVXdxZGl2c3JtVS9JSUlpekFSUzkyMExDUmtEQ3ZtSHY0b1VuT2IrWGNvVFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDUxOTI2CWZpbGU6UmVjYWxsXzAuMS4zLXRlc3QuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjMtdGVzdC40CkgzcjBwVFZXakJBWUlQYUVkSmJvTWpLMmQ4NTRUeStVdS93YzRmQ01FTGdFZFFqQzRIVENHYm9HclVlTWNHTXk4dmIrS3UwQTRnQ0c2dFR4UVlhTER3PT0K",
+      "url": "https://github.com/jjin5262/recall-releases/releases/download/v0.1.3-test.4/Recall_0.1.3-test.4_x64-setup.exe"
+    }
+  }
+}
