@@ -6,10 +6,10 @@ Recall은 용어를 정리하고 암기하도록 돕는 데스크톱 프로그�
 
 | 운영체제 | 설치 파일 |
 | --- | --- |
-| macOS Apple Silicon | [Mac용 다운로드 ⬇️](https://github.com/jjin5262/recall-releases/releases/download/v0.1.5/Recall_0.1.5_aarch64.dmg) |
-| Windows 64비트 (x64) | [Windows용 다운로드 ⬇️](https://github.com/jjin5262/recall-releases/releases/download/v0.1.5/Recall_0.1.5_x64-setup.exe) |
+| macOS Apple Silicon | [Mac용 다운로드 ⬇️](https://github.com/jjin5262/recall-releases/releases/download/v0.2.0/Recall_0.2.0_aarch64.dmg) |
+| Windows 64비트 (x64) | [Windows용 다운로드 ⬇️](https://github.com/jjin5262/recall-releases/releases/download/v0.2.0/Recall_0.2.0_x64-setup.exe) |
 
-현재 최신 버전: v0.1.5
+현재 최신 버전: v0.2.0
 
 macOS 파일은 Apple Silicon(M1, M2, M3, M4 등)용입니다. Intel Mac용 설치 파일은 제공하지 않습니다. Windows 파일은 64비트(x64)용입니다.
 
