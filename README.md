@@ -40,8 +40,8 @@ AI 채점과 반복 학습을 통해 효율적으로 암기할 수 있도록 도
 AI 기능을 사용하려면 지원되는 ChatGPT 또는 Claude 계정과 해당 CLI 도구의 설치 및 로그인이 필요합니다.
 
 <!-- recall-downloads:start -->
-# Recall 0.1.3
+# Recall 0.1.4
 
-- macOS Apple Silicon: https://github.com/jjin5262/recall-releases/releases/download/v0.1.3/Recall_0.1.3_aarch64.dmg
-- Windows x64: https://github.com/jjin5262/recall-releases/releases/download/v0.1.3/Recall_0.1.3_x64-setup.exe
+- macOS Apple Silicon: https://github.com/jjin5262/recall-releases/releases/download/v0.1.4/Recall_0.1.4_aarch64.dmg
+- Windows x64: https://github.com/jjin5262/recall-releases/releases/download/v0.1.4/Recall_0.1.4_x64-setup.exe
 <!-- recall-downloads:end -->
